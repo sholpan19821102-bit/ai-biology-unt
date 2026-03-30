@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  padding: 40px;
+  background: #f5f7fa;
+}
+
+h1 {
+  color: #1e3a8a;
+}
+
+.container {
+  display: flex;
+  gap: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
